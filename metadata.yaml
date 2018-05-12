@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34057'
     url: http://www.gutenberg.org/2009/agents/34057
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29653#Conestoga-Wagons-in-Braddock-s-Campaign-1755
 gutenberg_issued: '2009-08-10'
 gutenberg_type: Text
 identifiers:
