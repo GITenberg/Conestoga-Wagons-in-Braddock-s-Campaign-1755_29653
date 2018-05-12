@@ -1,0 +1,27 @@
+_repo: Conestoga-Wagons-in-Braddock-s-Campaign-1755_29653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berkebile, Donald H.
+    alias: Berkebile, Don H.
+    gutenberg_agent_id: '34057'
+    url: http://www.gutenberg.org/2009/agents/34057
+description: ''
+gutenberg_issued: '2009-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Braddock''s Campaign, 1755'
+- !lcsh 'Wagons'
+- !lcc 'E151'
+- !lcc 'Q'
+title: Conestoga Wagons in Braddock's Campaign, 1755
+url: http://www.gutenberg.org/ebooks/29653
